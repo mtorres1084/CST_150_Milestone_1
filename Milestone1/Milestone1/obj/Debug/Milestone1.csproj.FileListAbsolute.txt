@@ -1,0 +1,11 @@
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\bin\Debug\Milestone1.exe.config
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\bin\Debug\Milestone1.exe
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\bin\Debug\Milestone1.pdb
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\obj\Debug\Milestone1.csproj.AssemblyReference.cache
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\obj\Debug\Milestone1.Form1.resources
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\obj\Debug\Milestone1.Form2.resources
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\obj\Debug\Milestone1.Properties.Resources.resources
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\obj\Debug\Milestone1.csproj.GenerateResource.cache
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\obj\Debug\Milestone1.csproj.CoreCompileInputs.cache
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\obj\Debug\Milestone1.exe
+P:\GCU\CST_150\Milestones\Milestone1\Milestone1\obj\Debug\Milestone1.pdb
